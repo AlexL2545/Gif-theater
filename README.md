@@ -1,2 +1,3 @@
-# giphy-theater-search
-A responsive GIF search app powered by GIPHY. 
+# Gif-theater
+
+A responsive GIF search app powered by GIPHY.
