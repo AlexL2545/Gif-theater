@@ -1,5 +1,3 @@
-console.log("hello");
-
 const searchBarInput = document.querySelector("#searchBarInput");
 const searchBtn = document.querySelector("#searchBtn");
 const nextBtn = document.querySelector(".nextBtn");
