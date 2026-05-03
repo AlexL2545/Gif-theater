@@ -55,7 +55,7 @@ function showNextGif(){
         img.src = gifData[currentGifIndex].images.original.url;
         console.log("Showing GIF: ", currentGifIndex + 1, "of", gifData.length);
     }else{
-        console.log("No GIFs available. Search mann");
+        console.log("No GIFs available.");
     }
 }
 
